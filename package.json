@@ -1,0 +1,15 @@
+{
+  "name": "skillreactor_project",
+  "version": "1.0.0",
+  "description": "My first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://EnvironmentSetup-at-601206104627:wy4fPRdbTzhJWPCUsyZDtZCbpjgDdD4xeUekb0s0l1Q=@git-codecommit.eu-west-2.amazonaws.com/v1/repos/EnvironmentSetup-fazalrahim7-30ef9e94"
+  },
+  "author": "",
+  "license": "ISC"
+}
